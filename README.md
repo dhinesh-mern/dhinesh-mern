@@ -1,14 +1,23 @@
-<h1 align="center">Hi 👋, I'm Dhinesh Kumar</h1>
+<h1 align="center">Hey 👋, I'm Dhinesh Kumar</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer • Full Stack Developer • Problem Solver</b>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer+(MERN);DSA+Enthusiast+%7C+500%2B+LeetCode;Building+Real-World+AI+Projects" />
 </p>
 
 <p align="center">
-  <i>Turning ideas into intelligent systems & scalable applications</i>
+  <img src="https://komarev.com/ghpvc/?username=dhinesh-mern&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
+
+<p align="center">
+  <b>⚡ Turning Data into Intelligence • Code into Impact • Ideas into Reality ⚡</b>
+</p>
+
+<p align="center">
+  <i>Obsessed with building scalable systems, mastering ML, and solving complex problems</i>
+</p>
+
 
 ## 🚀 About Me
 
