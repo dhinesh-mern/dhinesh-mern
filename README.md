@@ -12,9 +12,8 @@
 
 ## 🚀 About Me
 
-* 🎓 Final Year BCA Student
-* 🤖 Passionate about Machine Learning & Deep Learning
 * 🌐 Full Stack Developer (MERN Stack)
+* 🤖 Passionate about Machine Learning & Deep Learning
 * 🧠 Solved **500+ LeetCode** & **300+ GeeksforGeeks** problems
 * ⚙️ Implemented **7+ ML algorithms from scratch using NumPy**
 * 🚀 Focused on building real-world, impactful projects
@@ -24,7 +23,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql" />
 </p>
 
 ---
