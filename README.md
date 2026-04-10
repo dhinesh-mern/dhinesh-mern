@@ -1,14 +1,6 @@
-<h1 align="center">Hey 👋, I'm Dhinesh Kumar</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Full+Stack+Developer+(MERN);DSA+Enthusiast+%7C+500%2B+LeetCode;Building+Real-World+AI+Projects" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhinesh-mern&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhinesh-mern&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
 
 <p align="center">
   <b>⚡ Turning Data into Intelligence • Code into Impact • Ideas into Reality ⚡</b>
