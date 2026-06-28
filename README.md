@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhinesh-mern&theme=onedark&no-frame=true&margin-w=15" />
-</p>
 
 <p align="center">
   <b>⚡ Turning Data into Intelligence • Code into Impact • Ideas into Reality ⚡</b>
